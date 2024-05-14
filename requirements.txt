@@ -1,6 +1,7 @@
 jupyterlab
 python-dotenv
-#langchain (deprecated)
+langchain
+#in case there is any langchain related problem just comment or delete the above line "langchain" as this module might be deprecated
 openai
 pinecone-client
 unstructured
