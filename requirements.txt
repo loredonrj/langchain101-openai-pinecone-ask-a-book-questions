@@ -1,6 +1,6 @@
 jupyterlab
 python-dotenv
-langchain
+#langchain (deprecated)
 openai
 pinecone-client
 unstructured
@@ -13,3 +13,4 @@ pytesseract
 pikepdf
 ipywidgets
 langchain-openai
+langchain-pinecone
